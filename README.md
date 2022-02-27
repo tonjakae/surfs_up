@@ -58,5 +58,5 @@ This new assignment consists of two technical analysis deliverables and a writte
 * In December the averages do not fluctuate too much with an average temperature of 71 degrees. Although the minimum temperature for December (51 degrees) would fall outside of the "ice cream temperature" range, and it is approximately 10 degrees colder than the minimum temperatures in June.
 * Max temperature for both months analized show only a two degree difference.
 
-### In conclusion, an Ice Cream/Surf Shop would do fairly well year round.
-### Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+#### In conclusion, an Ice Cream/Surf Shop would do fairly well year round.
+
