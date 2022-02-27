@@ -1,14 +1,16 @@
 # Surfs Up Analysis
+
 ### Resources:
 sql light, flask, jupyter
-### Background
-W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+
+### Overview
+I will need to gather temperature data for the months of June and December in Oahu, in order to determine if a surf and ice cream shop business is sustainable year-round.
 
 This new assignment consists of two technical analysis deliverables and a written report. I will submit the following:
 
 * Deliverable 1: Determine the Summary Statistics for June
 * Deliverable 2: Determine the Summary Statistics for December
-* Deliverable 3: A written report for the statistical analysis (README.md)
+* Deliverable 3: A written report for the statistical analysis
 
 ## Deliverable 1: Determine the Summary Statistics for June 
 
@@ -23,11 +25,11 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 #### Step 4 - generate the summary statistics for the June temperatures DataFrame.
 
-![image](https://user-images.githubusercontent.com/87340105/155866884-7bf9c2cf-5c6e-4f4f-a98d-e32f8f0f56f7.png)
+![image](https://user-images.githubusercontent.com/87340105/155867756-e0e7716d-7681-4d55-b239-d7e03d1ca895.png)
 
-![image](https://user-images.githubusercontent.com/87340105/155866909-4ff03262-95f5-447e-a85a-7cc1bdacaffd.png)
+![image](https://user-images.githubusercontent.com/87340105/155867768-e3807672-a246-40ff-aed2-a753c730db4b.png)
 
-![image](https://user-images.githubusercontent.com/87340105/155866925-92929801-dfee-40f3-87aa-157af238d548.png)
+![image](https://user-images.githubusercontent.com/87340105/155867772-26bf20ca-030f-4385-8744-5326f96f13a1.png)
 
 ## Deliverable 2: Determine the Summary Statistics for December
 
@@ -41,12 +43,15 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 #### Step 8 - create a DataFrame from the list of temperatures for the month of December.
 
-![image](https://user-images.githubusercontent.com/87340105/155866984-2300e52c-96cc-4a2a-8a8c-b02064444602.png)
+![image](https://user-images.githubusercontent.com/87340105/155867783-e29124c6-cf2e-4365-9cfc-a99ca7808ecd.png)
 
 #### Step 9 - generate the summary statistics for the December temperatures DataFrame.
 
-![image](https://user-images.githubusercontent.com/87340105/155866988-11a915ab-8c43-4d32-bcc5-fde61c7725f0.png)
+![image](https://user-images.githubusercontent.com/87340105/155867789-cc201784-fbea-4238-b91a-be9d60355a69.png)
 
-![image](https://user-images.githubusercontent.com/87340105/155867114-42d76bdf-625e-465a-ad98-4ce5da21cf44.png)
+![image](https://user-images.githubusercontent.com/87340105/155867793-b00d7eba-c198-49fb-9dd6-7596622c9805.png)
 
+## Deliverable 3: A written report for the statistical analysis
 
+### Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+### Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
