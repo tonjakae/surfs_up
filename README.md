@@ -47,5 +47,6 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 ![image](https://user-images.githubusercontent.com/87340105/155866988-11a915ab-8c43-4d32-bcc5-fde61c7725f0.png)
 
-![image](https://user-images.githubusercontent.com/87340105/155867002-b7047d3b-72de-453b-acc4-dd278e9e5bb5.png)
+![image](https://user-images.githubusercontent.com/87340105/155867114-42d76bdf-625e-465a-ad98-4ce5da21cf44.png)
+
 
