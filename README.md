@@ -54,4 +54,9 @@ This new assignment consists of two technical analysis deliverables and a writte
 ## Deliverable 3: A written report for the statistical analysis
 
 ### Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+* The data tells us that the average temperature in June is typically 75 degrees.
+* In December the averages do not fluctuate too much with an average temperature of 71 degrees. Although the minimum temperature for December (51 degrees) would fall outside of the "ice cream temperature" range, and it is approximately 10 degrees colder than the minimum temperatures in June.
+* Max temperature for both months analized show only a two degree difference.
+
+### In conclusion, an Ice Cream/Surf Shop would do fairly well year round.
 ### Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
